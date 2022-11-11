@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Sin_PWM_MiniZed.srcs/sources_1/new/PWM.v" \
+"../../../../Sin_PWM_MiniZed.srcs/sources_1/new/SinLUT.v" \
+"../../../../Sin_PWM_MiniZed.srcs/sim_1/imports/new/testbench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,9 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/esthe/Sin_PWM_MiniZed/Sin_PWM_MiniZed.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/esthe/Sin_PWM_MiniZed/Sin_PWM_MiniZed.srcs/sim_1/imports/new/testbench.v,1667605496,verilog,,,,testbench,,,,,,,,
+C:/Users/esthe/Sin_PWM_MiniZed/Sin_PWM_MiniZed.srcs/sources_1/new/Clock_Divider.v,1667599349,verilog,,C:/Users/esthe/Sin_PWM_MiniZed/Sin_PWM_MiniZed.srcs/sources_1/new/PWM.v,,Clock_Divider,,,,,,,,
+C:/Users/esthe/Sin_PWM_MiniZed/Sin_PWM_MiniZed.srcs/sources_1/new/PWM.v,1667604990,verilog,,C:/Users/esthe/Sin_PWM_MiniZed/Sin_PWM_MiniZed.srcs/sources_1/new/SinLUT.v,,PWM,,,,,,,,
+C:/Users/esthe/Sin_PWM_MiniZed/Sin_PWM_MiniZed.srcs/sources_1/new/SinLUT.v,1667606858,verilog,,C:/Users/esthe/Sin_PWM_MiniZed/Sin_PWM_MiniZed.srcs/sim_1/imports/new/testbench.v,,DutyCycle,,,,,,,,
